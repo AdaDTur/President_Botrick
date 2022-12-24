@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-
+"""Reverse_Botrick
+This portion of the code consists of the reversed generative task, where the
+aim is to generate non-persuasive and non-influential lines
+"""
 
 from google.colab import drive
 drive.mount('/content/drive', force_remount=True) #connecting code to  Google Drive, in order to access and read data files
