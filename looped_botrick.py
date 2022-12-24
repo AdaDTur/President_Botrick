@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-
+"""Looped_Botrick
+This portion of the code runs a looped version of the generative portion in order to
+generate full-length speeches
+"""
 
 !pip3 install transformers==4.16.2 #installing transformers library
 
