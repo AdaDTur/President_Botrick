@@ -1,6 +1,7 @@
 #President Botrick
 
-Code for paper to be published and presented at AAAI 2023 Workshop on AI and Diplomacy
+Code for paper to be published and presented at AAAI 2023 Workshop on AI and Diplomacy with Professor Julia Hirschberg from
+Columbia University Department of Computer Science
 
 Abstract:
 
